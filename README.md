@@ -2,13 +2,13 @@
 
 * ## Usage
 
-  * ### [Develop](#develop)
+  * ### [Develop](./Usage/Develop.md)
 
 * ## Platform
 
-  * ### [Android](./platform/android)
+  * ### [Android](./Platform/Android.md)
 
-  * ### [Windows](./platform/windows)
+  * ### [Windows](./Platform/Windows.md)
 
-  * ### [Linux](./platform/linux)
+  * ### [Linux](./Platform/Linux.md)
 
