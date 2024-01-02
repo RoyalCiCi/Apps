@@ -1,4 +1,4 @@
-## Windows
+## Windows    [🔙](../README.md)
 
 1.  [通讯](#通讯)
 2.  [压缩](#压缩)
@@ -6,9 +6,8 @@
 4.  [媒体](#媒体)
 5.  [图片](#图片)
 6.  [工具](#工具)
-7.  [代理](#代理)
-8.  [网络](#网络)
-9.  [远程](#远程)
+7.  [远程](#远程)
+8.  [代理](#代理)
 
 * ### 通讯
 
@@ -101,12 +100,3 @@
 |       [Sing-Box](https://github.com/SagerNet/sing-box)       |     代理      |   [Docs](https://sing-box.sagernet.org/)   |
 | [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) | Mihomo 图形化 |                                            |
 |          [v2rayN](https://github.com/2dust/v2rayN)           | *ray 系图形化 |                                            |
-
-* ### 网络
-
-|                             Name                             |     Feature      | Remark |
-| :----------------------------------------------------------: | :--------------: | :----: |
-|           [Wireshark](https://www.wireshark.org/)            |     主流抓包     |        |
-| [ProxyPin](https://github.com/wanghongenpin/network_proxy_flutter) |    全平台抓包    |        |
-|     [NextTrace](https://github.com/nxtrace/NTrace-core)      |     路由跟踪     |        |
-|       [OpenTrace](https://github.com/Archeb/opentrace)       | NextTrace 图形化 |        |
